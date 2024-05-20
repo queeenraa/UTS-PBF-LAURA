@@ -98,7 +98,7 @@ class UserController extends Controller
     {
         $parameters = [
             'client_id' => env('GOOGLE_CLIENT_ID'),
-            'redirect_uri' => 'http://127.0.0.1:8000/api/oauth/register/call-back',
+            'redirect_uri' => 'https://laura.if22b.site//api/oauth/register/call-back',
             'response_type' => 'code',
             'scope' => 'email profile',
             'access_type' => 'offline',
