@@ -1,0 +1,4 @@
+
+GOOGLE_CLIENT_ID= http://40039090992-0vsf7hp8t7sis2pahnaim6kea2puk55o.apps.googleusercontent.com/
+GOOGLE_CLIENT_SECRET=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
+GOOGLE_REDIRECT_URI=https://laura.if22b.site//api/oauth/register/call-back
